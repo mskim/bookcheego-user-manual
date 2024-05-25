@@ -1,3 +1,11 @@
+---
+layout: default
+title: 기본개념
+nav_order: 2
+---
+
+
+
 북치고는 "북치고 장구친다" 에서 유래된 이름이다.
 즉 책을 혼자서 다 만든다는 뜻이다. Self Publishing, One man band...
 'Book' 은 책을 뜻하며 'Go' 는 알파고(AlphaGo)와 같은 자동화를 의미 한다.
