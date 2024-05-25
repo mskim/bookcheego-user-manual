@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Customization
+title: MyStuff
 nav_order: 6
 ---
 
-# Customization
+# My Stuff
 {: .no_toc }
 
 ## Table of contents
@@ -15,9 +15,9 @@ nav_order: 6
 
 ---
 
-## Color schemes
+## Some of my stuff
 
-Just the Docs supports two color schemes: light (default), and dark.
+Some content that I created. Some content that I created, Some content that I created,
 
 To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file:
 
