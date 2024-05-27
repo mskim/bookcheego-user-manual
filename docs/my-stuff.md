@@ -1,8 +1,3 @@
----
-layout: default
-title: MyStuff
-nav_order: 6
----
 
 # My Stuff
 {: .no_toc }
